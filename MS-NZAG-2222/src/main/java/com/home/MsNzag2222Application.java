@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @EnableDiscoveryClient
 @SpringBootApplication
 public class MsNzag2222Application {
-
+// This is main method of NZAG-2222.
 	public static void main(String[] args) {
 		SpringApplication.run(MsNzag2222Application.class, args);
 	}
